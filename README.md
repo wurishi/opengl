@@ -1,1 +1,1 @@
-# opengl
+[link](./note.md)
